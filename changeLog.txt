@@ -1,0 +1,6 @@
+This is libQGLViewer version 2.6.4. Packaged on October 6, 2016.
+
+The complete change log is available in doc/changeLog.html
+
+The latest releases and changeLog are available at:
+http://www.libqglviewer.com/changeLog.html
